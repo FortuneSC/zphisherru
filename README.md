@@ -3,12 +3,12 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/htr-tech/zphisher.git
+$ git clone https://github.com/FortuneSC/zphisherru.git
 ```
 
 - Change to cloned directory and run `zphisher.sh` -
 ```
-$ cd zphisher
+$ cd zphisherru
 $ bash zphisher.sh
 ```
 
